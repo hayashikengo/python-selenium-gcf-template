@@ -1,0 +1,10 @@
+.env.local
+.env.dev
+.env.prd
+
+.dockerignore
+
+bin/
+
+__pycache__/
+venv
